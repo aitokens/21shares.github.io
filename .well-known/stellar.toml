@@ -1,18 +1,140 @@
+# Note: As of now, 21Shares does not officially offer ETPs tied to Stellar (XLM) or Stellar-based tokens. This page is crafted to hypothetically highlight such a possibility, emphasizing innovation and multi-chain digital asset exposure. 
+
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 [DOCUMENTATION]
-ORG_NAME=""
-ORG_URL=""
-ORG_DBA=""
-ORG_LOGO=""
-ORG_DESCRIPTION=""
+ORG_NAME="21Shares"
+ORG_URL="https://21shares.site"
+ORG_DBA="The world’s first and largest ETP issuer"
+ORG_LOGO="https://21shares.site/images/21shares.jpg"
+ORG_DESCRIPTION="Presenting the largest selection of exchange-traded crypto products (ETPs) that range from single assets to basket indices."
 
 [[CURRENCIES]]
-code=""
-issuer=""
-name=""
-desc=""
-image=""
+code="AINJ"
+issuer="GDF3L5G6ZCFW6WSXTNMQAHLMDAQ57H6CCXT6VQMBOBIZZZPGVGUBMKCP"
+name="AINJ"
+desc="21Shares Injective Staking ETP"
+image="https://21shares.site/images/AINJ.png"
+is_asset_anchored=false
+display_decimals=7
+status="live"
+
+[[CURRENCIES]]
+code="AXRP"
+issuer="GDF3L5G6ZCFW6WSXTNMQAHLMDAQ57H6CCXT6VQMBOBIZZZPGVGUBMKCP"
+name="AXRP"
+desc="21Shares XRP ETP"
+image="https://21shares.site/images/AXRP.png"
+is_asset_anchored=false
+display_decimals=7
+status="live"
+
+[[CURRENCIES]]
+code="DOGE"
+issuer="GDF3L5G6ZCFW6WSXTNMQAHLMDAQ57H6CCXT6VQMBOBIZZZPGVGUBMKCP"
+name="DOGE"
+desc="21Shares Dogecoin ETP"
+image="https://21shares.site/images/DOGE.png"
+is_asset_anchored=false
+display_decimals=7
+status="live"
+
+[[CURRENCIES]]
+code="ONDO"
+issuer="GDF3L5G6ZCFW6WSXTNMQAHLMDAQ57H6CCXT6VQMBOBIZZZPGVGUBMKCP"
+name="ONDO"
+desc="21Shares Ondo ETP"
+image="https://21shares.site/images/ONDO.png"
+is_asset_anchored=false
+display_decimals=7
+status="live"
+
+[[CURRENCIES]]
+code="FUTR"
+issuer="GDF3L5G6ZCFW6WSXTNMQAHLMDAQ57H6CCXT6VQMBOBIZZZPGVGUBMKCP"
+name="FUTR"
+desc="21Shares Future of Crypto Index ETP"
+image="https://21shares.site/images/FUTR.png"
+is_asset_anchored=false
+display_decimals=7
+status="live"
+
+[[CURRENCIES]]
+code="ABBA"
+issuer="GDF3L5G6ZCFW6WSXTNMQAHLMDAQ57H6CCXT6VQMBOBIZZZPGVGUBMKCP"
+name="ABBA"
+desc="21Shares Bitcoin Ethereum Core ETP"
+image="https://21shares.site/images/ABBA.png"
+is_asset_anchored=false
+display_decimals=7
+status="live"
+
+[[CURRENCIES]]
+code="HODLX"
+issuer="GDF3L5G6ZCFW6WSXTNMQAHLMDAQ57H6CCXT6VQMBOBIZZZPGVGUBMKCP"
+name="HODLX"
+desc="21Shares Crypto Basket 10 Core ETP"
+image="https://21shares.site/images/HODLX.png"
+is_asset_anchored=false
+display_decimals=7
+status="live"
+
+[[CURRENCIES]]
+code="HODLV"
+issuer="GDF3L5G6ZCFW6WSXTNMQAHLMDAQ57H6CCXT6VQMBOBIZZZPGVGUBMKCP"
+name="HODLV"
+desc="21Shares Crypto Basket Equal Weight ETP"
+image="https://21shares.site/images/HODLV.png"
+is_asset_anchored=false
+display_decimals=7
+status="live"
+
+[[CURRENCIES]]
+code="BOLD"
+issuer="GDF3L5G6ZCFW6WSXTNMQAHLMDAQ57H6CCXT6VQMBOBIZZZPGVGUBMKCP"
+name="BOLD"
+desc="21Shares Bitcoin Gold ETP"
+image="https://21shares.site/images/BOLD.png"
+is_asset_anchored=false
+display_decimals=7
+status="live"
+
+[[CURRENCIES]]
+code="ASUI"
+issuer="GDF3L5G6ZCFW6WSXTNMQAHLMDAQ57H6CCXT6VQMBOBIZZZPGVGUBMKCP"
+name="ASUI"
+desc="21Shares Sui Staking ETP"
+image="https://21shares.site/images/ASUI.png"
+is_asset_anchored=false
+display_decimals=7
+status="live"
+
+[[CURRENCIES]]
+code="ASTX"
+issuer="GDF3L5G6ZCFW6WSXTNMQAHLMDAQ57H6CCXT6VQMBOBIZZZPGVGUBMKCP"
+name="ASTX"
+desc="21Shares Stacks Staking ETP"
+image="https://21shares.site/images/ASTX.png"
+is_asset_anchored=false
+display_decimals=7
+status="live"
+
+[[CURRENCIES]]
+code="ASOL"
+issuer="GDF3L5G6ZCFW6WSXTNMQAHLMDAQ57H6CCXT6VQMBOBIZZZPGVGUBMKCP"
+name="ASOL"
+desc="21Shares Solana Staking ETP"
+image="https://21shares.site/images/ASOL.png"
+is_asset_anchored=false
+display_decimals=7
+status="live"
+
+[[CURRENCIES]]
+code="AETH"
+issuer="GDF3L5G6ZCFW6WSXTNMQAHLMDAQ57H6CCXT6VQMBOBIZZZPGVGUBMKCP"
+name="AETH"
+desc="21Shares Ethereum Staking ETP"
+image="https://21shares.site/images/AETH.png"
 is_asset_anchored=false
 display_decimals=7
 status="live"
